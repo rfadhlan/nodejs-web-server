@@ -3,6 +3,9 @@
 ## Build With
 * [Node.js](https://nodejs.org)
 
+## Architecture
+
+
 # :cloud: How To Deploy Flask API On Google Cloud Platform (Cloud Run)
   1. Create Flask API
   2. Create Dockerfile 
