@@ -4,7 +4,7 @@
 * [Node.js](https://nodejs.org)
 
 ## Architecture
-
+![achitecture](https://user-images.githubusercontent.com/85344255/173188252-0d524e41-b562-4f9e-881c-f2e3aa1b2dd8.jpeg)
 
 # :cloud: How To Deploy Flask API On Google Cloud Platform (Cloud Run)
   1. Create Flask API
